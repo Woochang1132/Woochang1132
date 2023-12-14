@@ -25,3 +25,7 @@
     </div>
   <br>
 </div>
+
+<h2>Most Used Languages</h2>
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woochang1132&layout=compact)
